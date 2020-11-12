@@ -50,6 +50,7 @@ When returning from parental leave I continued working on CoreTracking and conta
  
 ### OneApp structure - November 2020
 This feature we all know :)
+
 A way of working by sharing pattern principals, building reusable services & layout elements in order to unite the C More & Telia apps.
 
 #### What I worked on

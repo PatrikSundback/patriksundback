@@ -1,11 +1,9 @@
-### Hi there 👋
-
-A senior iOS Developer.
+### A senior iOS Developer.
 
 Always striving to be around developers with care and passion for coding, sharing a culture of knowledge first.
 
-Code should be intuitive and easy to read.
-Modular solutions and reusable elements should be a first go to mind set.
+* Code should be intuitive and easy to read.
+* Modular solutions and reusable elements should be a first go to mind set.
 
 <!--
 **PatrikSundback/patriksundback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
